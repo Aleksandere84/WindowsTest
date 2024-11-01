@@ -2,4 +2,5 @@
 Test starych funkcji windowsa
 
 Powinieś kompilować na Unicode
-Przyklad CredUI.cpp wymaga Windows XP lub nowszy
+
+Przyklad CredUI.cpp wymaga Windows XP lub nowszy, Linkuj również 'Credui.lib'
